@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.create-account{
+   
+ 
+    
+    margin-top: 8rem;
+    width: 24rem;
+    height: 17rem;
+    border: 2rem solid rgb(187, 187, 214);
+    border-radius: 1rem;
+    
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -5rem;
+   
+}
+.create1{
+    background-color: #38778b ;
+    height: 3rem;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1rem;
+    
+    
+  
+}
+.create1 input{
+    margin-top: 0.4rem;
+}
+#create-h{
+    height: 4rem;
+    background-color: #224049 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+}
+#home-l{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    background-color:#649eb0  ;
+  
+    width: 9rem;
+    margin-left:44rem ;
+    border-radius: 1rem;
+}
+#home-l1{
+    text-decoration: none;
+    color: black;
+}
+#home-l1:hover{
+    color: white;
+    
+    text-decoration: none;
+}
+.hidden{
+    display: none;
+}
+.main-l{
+    width: 15rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 41rem;
+    margin-top: 4rem;
+    
+    
+
+   
+}
+.signin{
+    border:1rem solid #649eb0;
+    border-radius: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+

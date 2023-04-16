@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 4rem;
+    display: flex;
+    background: #0B2F3A;
+    color: white;
+    gap: 50rem;
+}
+.navbar1{
+    display: flex;
+    gap: 3rem;
+}
+.nav{
+    height: 2rem;
+    width: 8rem;
+   
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem;
+    cursor: pointer;
+
+}
+.nav:hover{
+    background-color: aliceblue;
+    color: #0B2F3A;
+}
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    margin-left: 3rem;
+}
+
+
+
+
+
+
+
+
+

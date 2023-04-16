@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding-left: 0;
+}
+.database-form{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+
+   
+    
+}
+.form{
+    background-image: url("pexels-александар-цветановић-1422292.jpg");
+    height: 20rem;
+    width: 20rem;
+    background-size: 30rem;
+    border-radius: 1rem;
+    justify-content: center;
+    align-items: center;
+   
+   
+  }
+ .form input{
+    font-size: 1rem;
+    
+    
+ }
+ .form label{
+    font-size: 2rem;
+    color: bisque;
+ }
+ .form-sub{
+    position: absolute;
+   justify-content: center;
+    margin-top: 5rem;
+    margin-left: 1rem;
+   
+
+ }
+ .form h1{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color: aliceblue;
+ }
+ #checkForm{
+    color: black;
+    font-size: large;
+ }
